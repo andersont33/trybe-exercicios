@@ -1,6 +1,6 @@
 # Trybe
 
-Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Anderson A. Leite](www.linkedin.com/in/andersonleite-dev)_ enquanto estudava na [Trybe](https://www.betrybe.com/) 🚀
+Este repositório contém todas as atividades de aprendizagem desenvolvidas por Anderson A. Leite](https://www.linkedin.com/in/andersonleite-dev) enquanto estudava na Trybe](https://www.betrybe.com/) 🚀
 
 _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho."_
 

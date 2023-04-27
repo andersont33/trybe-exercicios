@@ -1,6 +1,6 @@
 #UNIX E SHELL
 
-Nesta seção aprendi:
+Nesse dia aprendi:
 
 - Conceito de Unix, Kernel e Shell;
 - Quais os principais comandos do Unix;

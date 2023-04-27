@@ -1,6 +1,6 @@
 #GIT E GITHUB
 
-Nessa seção aprendi:
+Nesse dia aprendi:
 
 - Copiar um repositório já existente no GitHub para seu computador;
 - Abrir pull requests;

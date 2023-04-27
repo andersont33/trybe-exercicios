@@ -1,6 +1,6 @@
 # UNIX, SHELL, GIT
 
-Nessa sessão aprendi:
+Nessa seção aprendi:
 
 - Conceito de Unix, Kernel e Shell;
 - Quais os principais comandos do Unix;

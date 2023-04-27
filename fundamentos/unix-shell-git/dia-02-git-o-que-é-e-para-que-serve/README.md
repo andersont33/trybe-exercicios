@@ -1,6 +1,6 @@
 #GIT OQUE É E PARA QUE SERVER
 
-Nesta seção aprendi:
+Nesse dia aprendi:
 
 - Conceitos de GIT e versionamento de código;
 - Instalar e configurar o Git no seu computador;
